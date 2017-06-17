@@ -1,0 +1,1 @@
+[23-Aug-2016 11:01:38 CST6CDT] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/appealng/public_html/nicolasgillespie.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
